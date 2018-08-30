@@ -17,5 +17,5 @@ func main() {
 			sum = sum + num
 		}
 	}
-	fmt.Printf("Sum of all the integers is %d\n", sum)
+	fmt.Printf("Sum of all the integers is %f\n", sum)
 }
